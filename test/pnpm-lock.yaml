@@ -1,0 +1,7 @@
+lockfileVersion: 5.4
+
+specifiers:
+    sidestore-source-types: link:..
+
+dependencies:
+    sidestore-source-types: link:..
