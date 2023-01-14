@@ -1,7 +1,7 @@
 import type { App } from "./app";
 import type { News } from "./news";
 
-/** Based on https://github.com/SideStore/SideStore-Docs/blob/master/developers/sources/guide.md */
+/** Based on https://github.com/SideStore/SideStore-Docs/blob/main/references/sources.md */
 export interface Source {
     /** The name of your source. This will appear in SideStore. */
     name: string;
