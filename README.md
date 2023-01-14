@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/sidestore-source-types?style=flat-square)](https://npmjs.com/package/sidestore-source-types)
 
 Fully documented type defintions for [SideStore](https://sidestore.io)'s source format. Based on
-https://github.com/SideStore/SideStore-Docs/blob/master/developers/sources/guide.md
+https://github.com/SideStore/SideStore-Docs/blob/main/references/sources.md
 
 ## Installing
 
