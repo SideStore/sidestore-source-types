@@ -1,7 +1,7 @@
 {
     "name": "sidestore-source-types",
     "description": "Fully documented type definitions for SideStore sources",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "types": "./types/index.d.ts",
     "files": [
         "types/"
