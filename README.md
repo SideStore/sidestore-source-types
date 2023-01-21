@@ -39,11 +39,11 @@ import type { Source } from "sidestore-source-types";
 
 Available imports:
 
--   [`Source`](./types/source.d.ts)
--   [`App`](./types/app.d.ts)
--   [`News`](./types/news.d.ts)
--   [`Version`](./types/version.d.ts)
--   [`Permission`, `PermissionType`](./types/permission.d.ts)
+-   [`Source`](https://sidestore.io/sidestore-source-types/interfaces/Source.html)
+-   [`App`](https://sidestore.io/sidestore-source-types/interfaces/App.html)
+-   [`News`](https://sidestore.io/sidestore-source-types/interfaces/News.html)
+-   [`Version`](https://sidestore.io/sidestore-source-types/interfaces/Version.html)
+-   [`Permission`, `PermissionType`](https://sidestore.io/sidestore-source-types/interfaces/Permission.html)
 
 ### Usage Example
 

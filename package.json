@@ -27,7 +27,7 @@
         "typedoc": "^0.23.24"
     },
     "scripts": {
-        "build": "ts-json-schema-generator -p './types/source.d.ts' -o schema.json && typedoc types/index.d.ts",
+        "build": "ts-json-schema-generator -p './types/source.d.ts' -o schema.json && typedoc types/index.d.ts --gitRevision main",
         "format": "prettier --plugin @trivago/prettier-plugin-sort-imports --config ~/.prettierrc.json ./types ./test --write"
     }
 }
