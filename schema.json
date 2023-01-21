@@ -183,7 +183,7 @@
     },
     "Source": {
       "additionalProperties": false,
-      "description": "Web docs available at https://sidestore.io/sidestore-source-types\n\nBased on https://github.com/SideStore/SideStore-Docs/blob/main/references/sources.md",
+      "description": "Web docs available at https://sidestore.github.io/sidestore-source-types\n\nBased on https://github.com/SideStore/SideStore-Docs/blob/main/references/sources.md",
       "properties": {
         "apps": {
           "items": {
