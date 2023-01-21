@@ -8,7 +8,7 @@ export type PermissionType =
     | "microphone"
     | "speech-recognition"
     | "background-audio"
-    | "background"
+    | "background-fetch"
     | "bluetooth"
     | "network"
     | "calendars"
