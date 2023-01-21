@@ -47,4 +47,4 @@ Available imports:
 
 ### Usage Example
 
-See [`test/index.ts`](./test/index.ts)
+See [`test/index.ts`](https://github.com/SideStore/sidestore-source-types/blob/main/test/index.ts)
