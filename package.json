@@ -15,7 +15,7 @@
         "type": "patreon",
         "url": "https://www.patreon.com/sidestore"
     },
-    "homepage": "https://sidestore.github.io/sidestore-source-types",
+    "homepage": "https://sidestore.io/sidestore-source-types",
     "repository": "github:SideStore/sidestore-source-types",
     "bugs": {
         "url": "https://github.com/SideStore/sidestore-source-types/issues"
