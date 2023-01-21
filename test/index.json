@@ -1,0 +1,6 @@
+{
+    "$schema": "https://github.com/SideStore/sidestore-source-types/raw/main/schema.json",
+    "name": "Your Source",
+    "identifier": "com.example.source",
+    "apps": []
+}

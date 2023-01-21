@@ -4,17 +4,17 @@
 
 Fully documented type defintions for [SideStore](https://sidestore.io)'s source format. Based on https://github.com/SideStore/SideStore-Docs/blob/main/references/sources.md.
 
-Web docs are available at https://sidestore.github.io/sidestore-source-types.
+Web docs are available at https://sidestore.io/sidestore-source-types.
 
 ## Usage in normal JSON
 
-We have a JSON schema available at https://github.com/SideStore/sidestore-source-types/blob/main/schema.json.
+We have a JSON schema available at https://github.com/SideStore/sidestore-source-types/raw/main/schema.json.
 
 You can use it like this for editor autocomplete and documentation:
 
 ```json
 {
-    "$schema": "https://github.com/SideStore/sidestore-source-types/blob/main/schema.json",
+    "$schema": "https://github.com/SideStore/sidestore-source-types/raw/main/schema.json",
     "name": "Your Source"
 }
 ```
