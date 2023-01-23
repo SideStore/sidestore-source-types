@@ -6,6 +6,8 @@ Fully documented type defintions for [SideStore](https://sidestore.io)'s source 
 
 Web docs are available at https://sidestore.io/sidestore-source-types.
 
+Changelog is available at https://github.com/SideStore/sidestore-source-types/blob/main/CHANGELOG.md.
+
 ## Usage in normal JSON
 
 We have a JSON schema available at https://github.com/SideStore/sidestore-source-types/raw/main/schema.json.
