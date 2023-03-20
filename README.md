@@ -1,16 +1,17 @@
 # sidestore-source-types
 
 [![npm](https://img.shields.io/npm/v/sidestore-source-types?style=flat-square)](https://npmjs.com/package/sidestore-source-types)
+[![pages-build-deployment](https://github.com/SideStore/sidestore-source-types/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SideStore/sidestore-source-types/actions/workflows/pages/pages-build-deployment)
 
-Fully documented type defintions for [SideStore](https://sidestore.io)'s source format. Based on https://github.com/SideStore/SideStore-Docs/blob/main/references/sources.md.
+_Fully documented type defintions for [SideStore](https://sidestore.io)'s source format. Based on [source.md](https://github.com/SideStore/SideStore-Docs/blob/main/references/sources.md)_
 
-Web docs are available at https://sidestore.io/sidestore-source-types.
+Web docs are available at [sidestore-source-types](https://sidestore.io/sidestore-source-types).
 
-Changelog is available at https://github.com/SideStore/sidestore-source-types/blob/main/CHANGELOG.md.
+Changelog is available at [CHANGELOG.md](https://github.com/SideStore/sidestore-source-types/blob/main/CHANGELOG.md).
 
 ## Usage in normal JSON
 
-We have a JSON schema available at https://github.com/SideStore/sidestore-source-types/raw/main/schema.json.
+We have a JSON schema available at [schema.json](https://github.com/SideStore/sidestore-source-types/raw/main/schema.json).
 
 You can use it like this for editor autocomplete and documentation:
 
@@ -25,11 +26,16 @@ You can use it like this for editor autocomplete and documentation:
 
 ### Installing
 
-NPM: `npm i -D sidestore-source-types`
+```bash
+# NPM:
+npm i -D sidestore-source-types`
 
-Yarn: `yarn add -D sidestore-source-types`
+# Yarn:
+yarn add -D sidestore-source-types
 
-PNPM: `pnpm i -D sidestore-source-types`
+# PNPM:
+pnpm i -D sidestore-source-types
+```
 
 ### Usage
 
