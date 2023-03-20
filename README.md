@@ -9,6 +9,8 @@ Web docs are available at [sidestore-source-types](https://sidestore.io/sidestor
 
 Changelog is available at [CHANGELOG.md](https://github.com/SideStore/sidestore-source-types/blob/main/CHANGELOG.md).
 
+![Alt](https://repobeats.axiom.co/api/embed/037aef3c88a179ab2b8f7d14456a1509c0f34980.svg "Repobeats analytics image")
+
 ## Usage in normal JSON
 
 We have a JSON schema available at [schema.json](https://github.com/SideStore/sidestore-source-types/raw/main/schema.json).
